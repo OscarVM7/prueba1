@@ -1,8 +1,6 @@
 <?php
 
 	echo "Hola mundo";
+	echo "string fue";
 
-	echo "...si se puede!";
-
-	$uno=0;
 ?>
